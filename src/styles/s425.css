@@ -1,0 +1,10 @@
+
+
+@media (max-width:425px) {
+    .titulop{
+        font-size: 3.5em;
+    }
+    .margin-card{
+        margin-bottom: 30px;
+    }
+}
