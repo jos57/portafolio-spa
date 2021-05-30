@@ -7,7 +7,7 @@ const Contacto = () => {
 
                 <h1 className="text-center text-dark p-lg-4 pt-md-5 mt-md-5 shadow-lg">Contacto</h1>
 
-                <form className=" py-5 ">
+                <form className=" py-5 " netlify>
                         <div className="container">
                                 <div className="offset-lg-2 col-lg-8 offset-lg-2">
                                 <div className="row ">
