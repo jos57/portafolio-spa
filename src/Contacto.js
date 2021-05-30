@@ -7,7 +7,7 @@ const Contacto = () => {
 
                 <h1 className="text-center text-dark p-lg-4 pt-md-5 mt-md-5 shadow-lg">Contacto</h1>
 
-                <form className=" py-5 " name="contact" netlify>
+                <form className=" py-5 " name="contacto" netlify>
                         <div className="container">
                                 <div className="offset-lg-2 col-lg-8 offset-lg-2">
                                 <div className="row ">
@@ -19,10 +19,10 @@ const Contacto = () => {
                                             </div>
                                 </div>
                                 <div className=" form-group">
-                                        <textarea placeholder="Escribe tu mensaje, por favor" className="col-lg-12 form-control" rows="8"></textarea>
+                                        <textarea name="textarea" type="textarea" placeholder="Escribe tu mensaje, por favor" className="col-lg-12 form-control" rows="8"></textarea>
                                 </div>
                                 <div className="row d-flex justify-content-center">
-                                    <input className="btn btn-primary col-lg-6 py-3" type="submit" >Enviar</input>
+                                    <input className="btn btn-primary col-lg-6 py-3" type="submit" value="Enviar"/>
                                 </div>
                             </div>
                         </div>
