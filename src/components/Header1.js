@@ -1,6 +1,7 @@
 import React from 'react';
-import header1 from '../styles/header1.css';
-import s425 from '../styles/s425.css';
+
+import image from "/home/joss/my-landingPage/my-app01/src/images/head2.jpg"
+
 
 
 
@@ -11,21 +12,36 @@ import s425 from '../styles/s425.css';
 const Header1 = ()=> {
 
     
-    
- 
-    
-    return <div className="jumbotron header vw-lg-100 altur cove vw-md-100 row m-0" id="home">
+   
 
-                    {/* fila de tarjeta */}
-                    <div className=" offset-lg-6 col-lg-6 col-md-12  justify-content-center">
-                        <div className=" mt-5 rounded shadow-lg fondo ">
-                            <h1 className="display-2  text-center text-dark  font-weight-light font-italic titulop">Josué Ojeda</h1>
-                            <p className=" text-center text-white h4 t-shadow">Diseño & Desarrollo web</p>
+  
+      
+    return <div className="container-fluid jumbotron vw-xl-100 row mx-0 mt-1" id="home" 
+    style={{ 
+        backgroundImage: `url(${image})` ,
+        backgroundRepeat: 'no-repeat',
+        backgroundSize:'100%',
+        backgroundPosition: 'center',
+        maxHeight: '800px'
+        
+    
+        
+      }}>
+
+       
+                    
+                    
+                        <div className=" col-12 col-lg-12 shadow-lg justify-content-center">
+                            <h1 className="h1 col-12 text-center text-dark  font-weight-light font-italic d-lg-none">Josué Ojeda</h1>
+                            <h1 className="d-none display-2 d-lg-block text-dark text-center font-italic    ">josue ojeda</h1>
+                            <p className=" col-12 text-center text-white ">Diseño & Desarrollo web</p>
                         </div>
-                        <div className="col-lg-12 col-md-12 d-flex justify-content-center mt-lg-3">
-                            <a className="btn" href="#contacto"><p className="h1 fondo2 text-dark text-uppercase">Contactar</p></a>
+                        <div className=" col-12 col-lg-12 col-md-6 offset-md-3 offset-lg-0 d-flex justify-content-center ">
+                            <a className="btn justify-content-center col-lg-6" href="#contacto">
+                                <p className="h3 text-dark text-uppercase rounded px-4 p-lg-2 border">Contactar</p>
+                            </a>
                         </div>
-                    </div>
+                    
 
 
                     

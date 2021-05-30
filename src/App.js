@@ -8,7 +8,7 @@ import Contacto from './components/Contacto.js';
 
 function App() {
   return (
-    <div>
+    <div className="container-fluid justify-content-center vw-xl-100 vw-sm-100 vw-md-100 vw-lg-100 row m-0 no-gutters">
       <Navbar1 />
       <Header1 />
       <CardDiv />

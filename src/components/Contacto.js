@@ -1,13 +1,13 @@
 import React from 'react';
-import contacto1 from '../styles/contacto1.css';
+
 
 
 const Contacto = () => {
-    return <div className="altura1 altura2 mar" id="contacto">
+    return <div className="altura1 altura2 col-sm-12" id="contacto">
 
                 <h1 className="text-center text-dark p-lg-4 pt-md-5 mt-md-5 shadow-lg">Contacto</h1>
 
-                <form className=" py-5">
+                <form className=" py-5 ">
                         <div className="container">
                                 <div className="offset-lg-2 col-lg-8 offset-lg-2">
                                 <div className="row ">
