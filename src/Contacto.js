@@ -22,7 +22,7 @@ const Contacto = () => {
                                         <textarea placeholder="Escribe tu mensaje, por favor" className="col-lg-12 form-control" rows="8"></textarea>
                                 </div>
                                 <div className="row d-flex justify-content-center">
-                                    <div className="btn btn-primary col-lg-6 py-3">Enviar</div>
+                                    <input className="btn btn-primary col-lg-6 py-3" type="submit" >Enviar</input>
                                 </div>
                             </div>
                         </div>
