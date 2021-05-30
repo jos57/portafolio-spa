@@ -1,5 +1,5 @@
 import React from 'react';
-import img from '../components/images/head(phone).jpg';
+import img from './head(phone).jpg';
 
 
 

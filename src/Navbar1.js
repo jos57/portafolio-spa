@@ -1,7 +1,7 @@
 import React from 'react';
 
 
-//import Navbar1s from './styles/Navbar1s.css';
+
 
 const Navbar1 = ()=>{
  

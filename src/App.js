@@ -1,10 +1,10 @@
 
 
-import Navbar1 from '/home/joss/my-landingPage/my-app01/src/components/Navbar1.js';
-import Header1 from './components/Header1.js';
-import CardDiv from './components/conocimientos.js';
-import Sobremi from './components/Sobremi.js';
-import Contacto from './components/Contacto.js';
+import Navbar1 from './Navbar1.js';
+import Header1 from './Header1.js';
+import CardDiv from './conocimientos.js';
+import Sobremi from './Sobremi.js';
+import Contacto from './Contacto.js';
 
 function App() {
   return (
