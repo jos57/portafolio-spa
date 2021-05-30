@@ -1,6 +1,6 @@
 import React from 'react';
+import image from "../components/images/head2.jpg"
 
-import image from "/home/joss/my-landingPage/my-app01/src/images/head2.jpg"
 
 
 
@@ -14,7 +14,6 @@ const Header1 = ()=> {
     
    
 
-  
       
     return <div className="container-fluid jumbotron vw-xl-100 row mx-0 mt-1" id="home" 
     style={{ 

@@ -1,5 +1,5 @@
 import React from 'react';
-import img from '/home/joss/my-landingPage/my-app01/src/images/head(phone).jpg';
+import img from '../components/images/head(phone).jpg';
 
 
 
