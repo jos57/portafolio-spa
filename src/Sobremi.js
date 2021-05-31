@@ -18,9 +18,13 @@ const Sobremi = () => {
                 
                     <div className="col-lg-6">
                         <div className="row">
-                            <p className=" pt-lg-5 p-md-5 col-md-6 col-md-12 pt-md-3 col-lg-12 text-muted"><em>Proident proident sint non duis incididunt excepteur. Consequat mollit commodo qui eu proident eu officia occaecat incididunt. Sit aliquip enim nostrud esse consequat labore pariatur commodo commodo laboris tempor. Nisi minim est veniam ea do esse.
-                                Cillum cillum aliqua quis adipisicing. Ullamco nostrud ipsum veniam elit exercitation Lorem excepteur deserunt sint duis magna incididunt. Anim sunt tempor sint incididunt consequat ullamco. Fugiat commodo proident nostrud esse mollit pariatur duis nostrud. 
-                                Laborum incididunt ullamco eu sint pariatur.
+                            <p className=" pt-lg-5 p-md-5 col-md-6 col-md-12 pt-md-3 col-lg-12 text-muted"><em>
+                                Hola espero que estes muy bien, quiero contarte un poco sobre mí, mi nombre es Josué 
+                                Ojeda, tengo 32 años y vivo en la ciudad de Tigre, del gran Buenos Aires. Mi experiencia
+                                laboral no es relevante por ser de otras áreas a la que pretendo insertarme actualmente, 
+                                hace aproximadamente dos años, en la búsqueda de nuevos desafíos y aprendizaje, comienzo a 
+                                interesarme en el área tecnológica y más especificamente en desarrollo web.
+                               
                                 </em></p>
 
                             <a className="btn btn-primary text-dark btn-lg offset-md-2 col-md-8 offset-lg-3 col-lg-6 offset-lg-3 mt-lg-5" href="#proyectos">Ver Portafolio</a>

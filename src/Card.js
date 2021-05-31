@@ -22,10 +22,10 @@ const Card = (props) => {
 
         <div className="card-title h3 text-center pb-3">{card.title}</div>
         
-        <div className="btn btn-info text-white btn-block">Ver Página</div>
+        <a className="btn btn-info text-white btn-block" href={ card.url } target="_blank">Ver Página</a>
 
         <div className="card-link text-center pt-3">
-            <a href="#repo" className="text-white">Ver Repositorio</a>
+            <a href={ card.repo } target="_blank" className="text-white">Ver Repositorio</a>
         </div>
     </div>
 
