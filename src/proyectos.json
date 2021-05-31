@@ -1,0 +1,23 @@
+[
+    {
+        "id": "1",
+        "img": "https://st.depositphotos.com/1020341/4233/i/600/depositphotos_42333899-stock-photo-portrait-of-huge-beautiful-male.jpg",
+        "title": "App de películas",
+        "copy": "uso de API ombd con react js"
+    },
+
+    {
+        "id": "2",
+        "img": "/home/joss/my-landingPage/my-app01/src/head2.jpg",
+        "title": "CRUD",
+        "copy": "crud realizado en react js"
+    },
+
+    {
+        "id": "3",
+        "img": "/home/joss/my-landingPage/my-app01/src/app-API-movies.png",
+        "title": "Single page aplication",
+        "copy": "página realizada en react js"
+    }
+]
+
