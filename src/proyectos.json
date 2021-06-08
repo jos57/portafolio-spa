@@ -6,24 +6,27 @@
         "copy": "uso de API ombd con react js",
         "url": "https://jos57.github.io/app-API-movies/",
         "repo": "https://github.com/jos57/app-API-movies.git",
-        "desc":"Buscador de películas desarrollado en React js implementando API OMDB"
+        "desc":"Buscador de películas desarrollado en React js implementando API OMDB."
     },
 
     {
         "id": "2",
         "img": "https://github.com/jos57/portafolio-spa/blob/addImages/src/images/crud-js.png?raw=true",
         "title": "CRUD",
-        "copy": "crud realizado en react js",
+        "copy": "crud realizado en javascript vanilla",
         "url":"https://jos57.github.io/crud-js/",
         "repo":  "https://github.com/jos57/crud-js",
-        "desc": "Aplicación de registro de usuarios con funciones básicas: crear, leer, actualizar y borrar usuarios, desarrollada en javascript vanilla"
+        "desc": "Aplicación de registro de usuarios con funciones básicas: crear, leer, actualizar y borrar usuarios, desarrollada en javascript vanilla."
     },
 
     {
         "id": "3",
-        "img": "/home/joss/my-landingPage/my-app01/src/app-API-movies.png",
-        "title": "Single page aplication",
-        "copy": "página realizada en react js"
+        "img": "https://github.com/jos57/portafolio-spa/blob/addImages/src/images/slot-machine.png?raw=true",
+        "title": "Juego máquina tragamonedas",
+        "copy": "juego maquina tragamonedas en javascript vanilla",
+        "repo": "https://github.com/jos57/the-game-of-slot-machine",
+        "url": "https://jos57.github.io/the-game-of-slot-machine/",
+        "desc": "Juego tipo tragamonedas o casino desarrollado en javascript vanilla con uso de sprites hechos en adobe illustrator."
     }
 ]
 
