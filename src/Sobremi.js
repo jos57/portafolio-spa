@@ -1,5 +1,5 @@
 import React from 'react';
-import img from '/home/joss/my-landingPage/my-app01/src/images/escalando.jpg';
+import img from '/home/joss/my-landingPage/my-app01/src/escalando.jpg';
 
 
 
