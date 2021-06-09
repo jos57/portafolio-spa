@@ -1,4 +1,4 @@
-import proyectos from '/home/joss/my-landingPage/my-app01/src/proyectos.js';
+import proyectos from './proyectos.js';
 import Card from './Card.js'; 
 
 

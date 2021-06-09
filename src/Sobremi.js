@@ -1,5 +1,5 @@
 import React from 'react';
-import img from './src/escalando.jpg';
+import img from './escalando.jpg';
 
 
 

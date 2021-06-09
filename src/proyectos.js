@@ -1,6 +1,6 @@
-import image1 from '/home/joss/my-landingPage/my-app01/src/app-API-movies.png';
-import image2 from '/home/joss/my-landingPage/my-app01/src/crud-js.png';
-import image3 from '/home/joss/my-landingPage/my-app01/src/slot-machine.png';
+import image1 from './app-API-movies.png';
+import image2 from './crud-js.png';
+import image3 from './slot-machine.png';
 
 
 
